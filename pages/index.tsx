@@ -11,7 +11,6 @@ export default function Home() {
 			<Head>
 				<title>ISCE Store</title>
 				<meta
-					name='description'
 					content='ISCE Store UI'
 				/>
 				<meta
@@ -70,8 +69,20 @@ export default function Home() {
 						<div className='bg-secondary-800 h-10 w-[300px]'></div>
 						<div className='bg-secondary-900 h-10 w-[300px]'></div>
 					</div>
+<<<<<<< HEAD
 					<div className=''>
 						<div className='bg-white h-10 w-[300px]'></div>
+=======
+					<div className="">
+						
+						<div className="bg-white h-10 w-[300px] mb-8"></div>
+
+						<div className="bg-info h-10 w-[300px]"></div>
+						<div className="bg-warning h-10 w-[300px]"></div>
+						<div className="bg-success h-10 w-[300px]"></div>
+						<div className="bg-error h-10 w-[300px]"></div>
+
+>>>>>>> 4d949e61121234f42efd8a6b015b676a4ebe51f7
 					</div>
 				</div>
 			</main>
