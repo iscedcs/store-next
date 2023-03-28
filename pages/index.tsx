@@ -77,19 +77,64 @@ export default function Home() {
 				<div className='grid grid-cols-4'>
 					<div className=''>
 						<div className='m-8'>
-							<div className='text-heading-lg'>
-								Text Heading Large
+							<div className='text-heading-lg font-bold'>
+								Heading Large
 							</div>
-							<div className='text-heading'>
-								Text Heading Medium
+							<div className='text-heading-md font-bold'>
+								Heading Medium
 							</div>
 						</div>
 						<div className='m-8'>
-							<div className='text-title-lg'>
-								Text Title Large
+							<div className='text-title-lg font-bold'>
+								Title Large
 							</div>
-							<div className='text-title'>
-								Text Title Medium
+							<div className='text-title-md font-bold'>
+								Title Medium
+							</div>
+
+							<div className='m-8'>
+								<div className='text-body-lg font-normal'>
+									Large Body Text
+								</div>
+
+								<div className='text-body-lg2 font-bold'>
+									Large Body Text
+								</div>
+								<div className='m-8'></div>
+								<div className='text-body-normal font-normal'>
+									Body Text
+								</div>
+
+								<div className='text-body-normal2 font-bold'>
+									Body Text
+								</div>
+
+								<div className='text-body-normal-italic font-normal italic'>
+									Body Text
+								</div>
+
+								<div className='m-8'></div>
+								<div className='text-body-small-normal font-normal'>
+									Small Body Text
+								</div>
+
+								<div className='text-body-small-normal2 font-bold'>
+									Small Body Text
+								</div>
+								<div className='text-body-small-normal-italic font-normal italic'>
+									Small Body Text
+								</div>
+
+								<div className='m-8'></div>
+								<div className='text-caption font-normal'>
+									Caption Text
+								</div>
+								<div className='text-caption2 font-bold'>
+									Caption Text
+								</div>
+								<div className='text-caption-italic font-normal italic'>
+									Caption Text
+								</div>
 							</div>
 						</div>
 					</div>

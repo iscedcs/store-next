@@ -52,8 +52,22 @@ module.exports = {
 			fontSize: {
 				"heading-lg": ["36px", "52px"],
 				"heading-md": ["28px", "40px"],
+
+				"title-lg": ["24px", "32px"],
+				"title-md": ["20px", "28px"],
+
+				"body-lg": ["18px", "28px"],
+				"body-lg2": ["18px", "28px"],
+				"	body-normal": ["16px", "24px"],
+				"body-normal2": ["16px", "24px"],
+				"body-normal-italic": ["16px", "24px"],
+				"body-small-normal": ["14px", "24px"],
+				"body-small-normal2-italic": ["14px", "24px"],
+				caption: ["12px", "18px"],
+				caption2: ["12px", "18px"],
+				"caption-italic": ["12px", "18px"],
 			},
 		},
+		plugins: [],
 	},
-	plugins: [],
 };
