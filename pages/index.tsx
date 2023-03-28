@@ -26,7 +26,9 @@ export default function Home() {
 						height={37}
 						priority
 					/>
-					<p className='font-light text-7xl ml-5'>STORES</p>
+					<p className='font-light text-7xl ml-5 justify-center'>
+						STORES
+					</p>
 					<LocationOn />
 				</div>
 
@@ -141,6 +143,37 @@ export default function Home() {
 									Extra small text
 								</div>
 							</div>
+						</div>
+					</div>
+				</div>
+				<div className='grid grid-cols-4 '>
+					<div className=''>
+						<div className='text-sample font-bold text-right'>
+							This is a text sample
+						</div>
+						<div className='text-sample-one font-bold text-right'>
+							This is a text sample
+						</div>
+						<div className='text-sample-two font-bold text-right'>
+							This is a text sample
+						</div>
+						<div className='text-sample-three font-medium text-right'>
+							This is a text sample
+						</div>
+						<div className='text-sample-four font-normal text-right'>
+							This is a text sample
+						</div>
+						<div className='text-sample-five font-normal text-right'>
+							This is a text sample
+						</div>
+						<div className='text-sample-six font-normal text-right'>
+							This is a text sample
+						</div>
+						<div className='text-sample-seven font-normal text-right'>
+							This is a text sample
+						</div>
+						<div className='text-sample-eight font-normal text-right'>
+							This is a text sample
 						</div>
 					</div>
 				</div>
