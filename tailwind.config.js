@@ -12,6 +12,12 @@ module.exports = {
     extend: {
       colors: {
         'white': '#FFFFFF',
+
+        'info': '#0016DD',
+        'warning': '#DD7700',
+        'success': '#00B96B',
+        'error': '#BA1A1A',
+        
         'secondary': {
           '100': '#D0D3DC',
           '200': '#B1B5C5',

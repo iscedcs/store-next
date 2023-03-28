@@ -1,1 +1,1 @@
-# ISCE Stor UI with Next JS
+# ISCE Store UI with Next JS
