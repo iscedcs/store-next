@@ -66,6 +66,7 @@ module.exports = {
 				caption: ["12px", "18px"],
 				caption2: ["12px", "18px"],
 				"caption-italic": ["12px", "18px"],
+				"extra-small": ["10px", "16px"],
 			},
 		},
 		plugins: [],

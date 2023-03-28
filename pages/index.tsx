@@ -135,6 +135,11 @@ export default function Home() {
 								<div className='text-caption-italic font-normal italic'>
 									Caption Text
 								</div>
+
+								<div className='m-8'></div>
+								<div className='text-extra-small font-normal'>
+									Extra small text
+								</div>
 							</div>
 						</div>
 					</div>
